@@ -3,6 +3,17 @@
   background-color: #c7dced;
 }
 
+.jumbotron {
+  height: 600px;
+  background-size: cover;
+  background-image: url(http://www.prague.eu/file/edee/prague.eu/en/promitacka/md/pis-web-motiv_1280x600_3-20141212-162226.jpg);
+}
+
+.jumbotron h1 {
+  font-size: 44px;
+  margin-top:-5px;
+  margin-left: 35%;
+}
 img {
   width: 100%;
 }

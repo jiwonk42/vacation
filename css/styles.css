@@ -1,19 +1,26 @@
 .well{
   height: 230px;
-  background-color: #c7dced;
+  background-color: #d9e8f4;
 }
 
 .jumbotron {
+  font-family: fantasy;
   height: 600px;
   background-size: cover;
   background-image: url(http://www.prague.eu/file/edee/prague.eu/en/promitacka/md/pis-web-motiv_1280x600_3-20141212-162226.jpg);
 }
 
 .jumbotron h1 {
-  font-size: 44px;
+  font-size: 46px;
   margin-top:-5px;
-  margin-left: 35%;
+  margin-left: 32%;
+
+  color:#2f5b7f;
+  font-weight: bold;
 }
-img {
-  width: 100%;
+
+.jumbotron p {
+  margin-top:-5px;
+  margin-left: 38%;
+  font-style: italic;
 }
